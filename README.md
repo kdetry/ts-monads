@@ -1,4 +1,4 @@
-# Monad and Monadic Approach in Functional Programming
+# Monad and Monadic Approach with Typescript
 
 This repository has been created for self-education purposes, at least for now.
 
