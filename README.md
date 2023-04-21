@@ -1,5 +1,7 @@
 # Monad and Monadic Approach in Functional Programming
 
+This repository has been created for self-education purposes, at least for now.
+
 ## About the Repo
 
 - the **"monads"** folder includes monads
