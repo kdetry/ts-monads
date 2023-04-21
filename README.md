@@ -34,7 +34,7 @@ Used to manage error cases. It has two subclasses: `Success`, which represents a
 
 Monads and monadic approaches make programming structures more understandable and manageable, while also allowing errors and operations to be handled safely and flexibly.
 
-### Identity Monad
+### Identity Monad
 
 The Identity Monad is the simplest monad that doesn't add any additional behavior to the wrapped value. It is useful for understanding the basic monad structure, testing, and using in places where a monad is required but no additional behavior is needed.
 
